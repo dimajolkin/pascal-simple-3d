@@ -9,10 +9,10 @@
 3. w,a,s,d - выбор оси вращения, space - вращение
 
 ### По умолчанию
-![img.png](images/img.png)
+![img.png](https://github.com/dimajolkin/pascal-simple-3d/blob/main/images/img.png)
 
 ### По умолчанию
-![img_1.png](images/img_1.png)
+![img_1.png](https://github.com/dimajolkin/pascal-simple-3d/blob/main/images/img_1.png)
 
 ### Перспектива
-![img_2.png](images/img_2.png)
+![img_2.png](https://github.com/dimajolkin/pascal-simple-3d/blob/main/images/img_2.png)
